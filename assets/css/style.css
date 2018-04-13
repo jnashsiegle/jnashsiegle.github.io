@@ -19,7 +19,7 @@ nav, footer{
 }
 
 .jumbotron {
-   background: #fff url('../../images/jumbo.jpg') no-repeat center center fixed;
+   background: #fff url('../../images/jumbo.jpg') no-repeat center center;
    -webkit-background-size: cover;
    -moz-background-size: cover;
    background-size: cover;
